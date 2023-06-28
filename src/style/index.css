@@ -1205,7 +1205,7 @@ main [class*=__summary] {
   }
 }
 @media (max-width: 767px) {
-  .section4 {
+  main .section4 {
     margin: 6.25rem auto;
     min-height: 100%;
   }
