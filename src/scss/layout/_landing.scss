@@ -8,10 +8,6 @@
   }
 }
 
-main {
-  
-}
-
 .section1 {
   background: #000 url("./../image/landing/backgorund-1.png") no-repeat center / cover;
 
@@ -161,7 +157,7 @@ main [class*="__summary"] {
 }
 
 @include mobile {
-  .section4 {
+  main .section4 {
     margin: rem(100px) auto;
     min-height: 100%;
   }
